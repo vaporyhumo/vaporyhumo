@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Rodrigo - aka `vaporyhumo`
+
+## I'm a Software Gardener!
+
+- 🔭 I’m currently working on `muina`, a **DDD** inspired framework built on top of the `sorbet-runtime`.
+- 🌱 I’m currently learning about the `LLVM` project and relearning to program in `C`.
+- 🤔 I’m looking for help with improving my public profiles!
+- 💬 Ask me about anything related to `Ruby`!
 
 <!--
 **vaporyhumo/vaporyhumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
