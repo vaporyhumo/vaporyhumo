@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Rodrigo - aka vaporyhumo 👋
-## I'm a Software Gardener!!
+## I'm a Software Gardener 🌱
 
 - 🔭 I’m currently working on `muina`, a **DDD** inspired framework built on top of the `sorbet-runtime`.
 - 🌱 I’m currently learning about the `LLVM` project and relearning to program in `C`.
