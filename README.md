@@ -23,6 +23,7 @@
 [linkedin]: https://linkedin.com/in/vaporyhumo
 [twitch]: https://www.twitch.tv/vaporyhumo
 
+<br />
 
 ### Languages and Tools:
 
