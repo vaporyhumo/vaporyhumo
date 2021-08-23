@@ -40,8 +40,11 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=white&logo=ruby&logoColor=CC342D)](#)
+[![Rails Badge](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&labelColor=white&logo=rubyonrails&logoColor=CC0000)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=white&logo=git&logoColor=F05032)](#)
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=for-the-badge&labelColor=white&logo=github&logoColor=181717)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=white&logo=docker&logoColor=2496ED)](#)
 
 
 <br />
