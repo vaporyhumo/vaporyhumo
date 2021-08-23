@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+
 
 <br />
 
