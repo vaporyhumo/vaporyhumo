@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=white&logo=git&logoColor=F05032)](#)
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=for-the-badge&labelColor=white&logo=github&logoColor=181717)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=white&logo=docker&logoColor=2496ED)](#)
+[![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
 
 
 <br />
