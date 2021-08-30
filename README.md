@@ -56,11 +56,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/vaporyhumo/muina/pull/14) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
-2. ❗️ Opened issue [#13](https://github.com/vaporyhumo/muina/issues/13) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
-3. 💪 Opened PR [#1](https://github.com/vaporyhumo/vaporyhumo/pull/1) in [vaporyhumo/vaporyhumo](https://github.com/vaporyhumo/vaporyhumo)
-4. 🎉 Merged PR [#12](https://github.com/vaporyhumo/muina/pull/12) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
-5. 💪 Opened PR [#12](https://github.com/vaporyhumo/muina/pull/12) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
+1. 🎉 Merged PR [#15](https://github.com/vaporyhumo/muina/pull/15) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
+2. 💪 Opened PR [#14](https://github.com/vaporyhumo/muina/pull/14) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
+3. ❗️ Opened issue [#13](https://github.com/vaporyhumo/muina/issues/13) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
+4. 💪 Opened PR [#1](https://github.com/vaporyhumo/vaporyhumo/pull/1) in [vaporyhumo/vaporyhumo](https://github.com/vaporyhumo/vaporyhumo)
+5. 🎉 Merged PR [#12](https://github.com/vaporyhumo/muina/pull/12) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
 <!--END_SECTION:activity-->
 
 </details>
