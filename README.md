@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4556](https://github.com/sorbet/sorbet/issues/4556) in [sorbet/sorbet](https://github.com/sorbet/sorbet)
-2. 🎉 Merged PR [#15](https://github.com/vaporyhumo/muina/pull/15) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
-3. 💪 Opened PR [#14](https://github.com/vaporyhumo/muina/pull/14) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
-4. ❗️ Opened issue [#13](https://github.com/vaporyhumo/muina/issues/13) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
-5. 💪 Opened PR [#1](https://github.com/vaporyhumo/vaporyhumo/pull/1) in [vaporyhumo/vaporyhumo](https://github.com/vaporyhumo/vaporyhumo)
+2. 🗣 Commented on [#4556](https://github.com/sorbet/sorbet/issues/4556) in [sorbet/sorbet](https://github.com/sorbet/sorbet)
+3. 🎉 Merged PR [#15](https://github.com/vaporyhumo/muina/pull/15) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
+4. 💪 Opened PR [#14](https://github.com/vaporyhumo/muina/pull/14) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
+5. ❗️ Opened issue [#13](https://github.com/vaporyhumo/muina/issues/13) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
 <!--END_SECTION:activity-->
 
 </details>
