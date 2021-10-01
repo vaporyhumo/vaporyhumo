@@ -56,11 +56,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ruby-garden/pong-haskell/issues/1) in [ruby-garden/pong-haskell](https://github.com/ruby-garden/pong-haskell)
-2. 🗣 Commented on [#4556](https://github.com/sorbet/sorbet/issues/4556) in [sorbet/sorbet](https://github.com/sorbet/sorbet)
-3. 🗣 Commented on [#4556](https://github.com/sorbet/sorbet/issues/4556) in [sorbet/sorbet](https://github.com/sorbet/sorbet)
-4. 🎉 Merged PR [#15](https://github.com/vaporyhumo/muina/pull/15) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
-5. 💪 Opened PR [#14](https://github.com/vaporyhumo/muina/pull/14) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
+1. 🗣 Commented on [#1264](https://github.com/mbj/mutant/issues/1264) in [mbj/mutant](https://github.com/mbj/mutant)
+2. 🗣 Commented on [#1264](https://github.com/mbj/mutant/issues/1264) in [mbj/mutant](https://github.com/mbj/mutant)
+3. 🗣 Commented on [#1264](https://github.com/mbj/mutant/issues/1264) in [mbj/mutant](https://github.com/mbj/mutant)
+4. ❗️ Opened issue [#1](https://github.com/ruby-garden/pong-haskell/issues/1) in [ruby-garden/pong-haskell](https://github.com/ruby-garden/pong-haskell)
+5. 🗣 Commented on [#4556](https://github.com/sorbet/sorbet/issues/4556) in [sorbet/sorbet](https://github.com/sorbet/sorbet)
 <!--END_SECTION:activity-->
 
 </details>
