@@ -56,11 +56,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1287](https://github.com/mbj/mutant/issues/1287) in [mbj/mutant](https://github.com/mbj/mutant)
-2. 💪 Opened PR [#1](https://github.com/vaporyhumo/qmk_firmware/pull/1) in [vaporyhumo/qmk_firmware](https://github.com/vaporyhumo/qmk_firmware)
-3. ❌ Closed PR [#15310](https://github.com/qmk/qmk_firmware/pull/15310) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
-4. 💪 Opened PR [#15310](https://github.com/qmk/qmk_firmware/pull/15310) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
-5. ❌ Closed PR [#14](https://github.com/vaporyhumo/muina/pull/14) in [vaporyhumo/muina](https://github.com/vaporyhumo/muina)
+1. 🗣 Commented on [#1287](https://github.com/mbj/mutant/issues/1287) in [mbj/mutant](https://github.com/mbj/mutant)
+2. ❗️ Opened issue [#1287](https://github.com/mbj/mutant/issues/1287) in [mbj/mutant](https://github.com/mbj/mutant)
+3. 💪 Opened PR [#1](https://github.com/vaporyhumo/qmk_firmware/pull/1) in [vaporyhumo/qmk_firmware](https://github.com/vaporyhumo/qmk_firmware)
+4. ❌ Closed PR [#15310](https://github.com/qmk/qmk_firmware/pull/15310) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+5. 💪 Opened PR [#15310](https://github.com/qmk/qmk_firmware/pull/15310) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
 <!--END_SECTION:activity-->
 
 </details>
