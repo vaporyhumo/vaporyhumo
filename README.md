@@ -56,11 +56,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/vaporyhumo/truby/issues/1) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
-2. 🗣 Commented on [#131](https://github.com/toptal/crystalball/issues/131) in [toptal/crystalball](https://github.com/toptal/crystalball)
-3. 💪 Opened PR [#1290](https://github.com/mbj/mutant/pull/1290) in [mbj/mutant](https://github.com/mbj/mutant)
-4. 🗣 Commented on [#1289](https://github.com/mbj/mutant/issues/1289) in [mbj/mutant](https://github.com/mbj/mutant)
-5. ❗️ Opened issue [#1289](https://github.com/mbj/mutant/issues/1289) in [mbj/mutant](https://github.com/mbj/mutant)
+1. 🎉 Merged PR [#3](https://github.com/vaporyhumo/truby/pull/3) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
+2. 💪 Opened PR [#3](https://github.com/vaporyhumo/truby/pull/3) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
+3. 🎉 Merged PR [#2](https://github.com/vaporyhumo/truby/pull/2) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
+4. 💪 Opened PR [#2](https://github.com/vaporyhumo/truby/pull/2) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
+5. ❗️ Opened issue [#1](https://github.com/vaporyhumo/truby/issues/1) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
 <!--END_SECTION:activity-->
 
 </details>
