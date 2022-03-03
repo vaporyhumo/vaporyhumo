@@ -56,11 +56,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1288](https://github.com/mbj/mutant/issues/1288) in [mbj/mutant](https://github.com/mbj/mutant)
-2. 🎉 Merged PR [#3](https://github.com/vaporyhumo/truby/pull/3) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
-3. 💪 Opened PR [#3](https://github.com/vaporyhumo/truby/pull/3) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
-4. 🎉 Merged PR [#2](https://github.com/vaporyhumo/truby/pull/2) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
-5. 💪 Opened PR [#2](https://github.com/vaporyhumo/truby/pull/2) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
+1. 🎉 Merged PR [#1](https://github.com/vaporyhumo/silver-eureka/pull/1) in [vaporyhumo/silver-eureka](https://github.com/vaporyhumo/silver-eureka)
+2. 🗣 Commented on [#1](https://github.com/vaporyhumo/silver-eureka/issues/1) in [vaporyhumo/silver-eureka](https://github.com/vaporyhumo/silver-eureka)
+3. 💪 Opened PR [#1](https://github.com/vaporyhumo/silver-eureka/pull/1) in [vaporyhumo/silver-eureka](https://github.com/vaporyhumo/silver-eureka)
+4. 🗣 Commented on [#1288](https://github.com/mbj/mutant/issues/1288) in [mbj/mutant](https://github.com/mbj/mutant)
+5. 🎉 Merged PR [#3](https://github.com/vaporyhumo/truby/pull/3) in [vaporyhumo/truby](https://github.com/vaporyhumo/truby)
 <!--END_SECTION:activity-->
 
 </details>
