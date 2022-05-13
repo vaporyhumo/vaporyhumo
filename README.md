@@ -56,11 +56,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AbyThunder/demo/issues/1) in [AbyThunder/demo](https://github.com/AbyThunder/demo)
-2. 🎉 Merged PR [#1](https://github.com/vaporyhumo/silver-eureka/pull/1) in [vaporyhumo/silver-eureka](https://github.com/vaporyhumo/silver-eureka)
-3. 🗣 Commented on [#1](https://github.com/vaporyhumo/silver-eureka/issues/1) in [vaporyhumo/silver-eureka](https://github.com/vaporyhumo/silver-eureka)
-4. 💪 Opened PR [#1](https://github.com/vaporyhumo/silver-eureka/pull/1) in [vaporyhumo/silver-eureka](https://github.com/vaporyhumo/silver-eureka)
-5. 🗣 Commented on [#1288](https://github.com/mbj/mutant/issues/1288) in [mbj/mutant](https://github.com/mbj/mutant)
+1. 💪 Opened PR [#1](https://github.com/tanvin-sharma/eval/pull/1) in [tanvin-sharma/eval](https://github.com/tanvin-sharma/eval)
+2. 💪 Opened PR [#1](https://github.com/azalatoris/eval/pull/1) in [azalatoris/eval](https://github.com/azalatoris/eval)
+3. 💪 Opened PR [#1](https://github.com/macarenapeche/eval-repo/pull/1) in [macarenapeche/eval-repo](https://github.com/macarenapeche/eval-repo)
+4. 🗣 Commented on [#1](https://github.com/AbyThunder/demo/issues/1) in [AbyThunder/demo](https://github.com/AbyThunder/demo)
+5. 🎉 Merged PR [#1](https://github.com/vaporyhumo/silver-eureka/pull/1) in [vaporyhumo/silver-eureka](https://github.com/vaporyhumo/silver-eureka)
 <!--END_SECTION:activity-->
 
 </details>
