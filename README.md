@@ -56,11 +56,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/tanvin-sharma/eval/pull/1) in [tanvin-sharma/eval](https://github.com/tanvin-sharma/eval)
-2. 💪 Opened PR [#1](https://github.com/azalatoris/eval/pull/1) in [azalatoris/eval](https://github.com/azalatoris/eval)
-3. 💪 Opened PR [#1](https://github.com/macarenapeche/eval-repo/pull/1) in [macarenapeche/eval-repo](https://github.com/macarenapeche/eval-repo)
-4. 🗣 Commented on [#1](https://github.com/AbyThunder/demo/issues/1) in [AbyThunder/demo](https://github.com/AbyThunder/demo)
-5. 🎉 Merged PR [#1](https://github.com/vaporyhumo/silver-eureka/pull/1) in [vaporyhumo/silver-eureka](https://github.com/vaporyhumo/silver-eureka)
+1. 🗣 Commented on [#5910](https://github.com/sorbet/sorbet/issues/5910) in [sorbet/sorbet](https://github.com/sorbet/sorbet)
+2. 💪 Opened PR [#1](https://github.com/tanvin-sharma/eval/pull/1) in [tanvin-sharma/eval](https://github.com/tanvin-sharma/eval)
+3. 💪 Opened PR [#1](https://github.com/azalatoris/eval/pull/1) in [azalatoris/eval](https://github.com/azalatoris/eval)
+4. 💪 Opened PR [#1](https://github.com/macarenapeche/eval-repo/pull/1) in [macarenapeche/eval-repo](https://github.com/macarenapeche/eval-repo)
+5. 🗣 Commented on [#1](https://github.com/AbyThunder/demo/issues/1) in [AbyThunder/demo](https://github.com/AbyThunder/demo)
 <!--END_SECTION:activity-->
 
 </details>
