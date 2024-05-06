@@ -10,6 +10,7 @@
 - [Coding Challenges](https://github.com/vaporyhumo/coding_challenges)
 
 #### Things I've done for learning
+- [Bus](https://github.com/vaporyhumo/bus): Bus seats management service.
 - [Guess](https://github.com/vaporyhumo/guess): Guessing game with client/server
   architecture.
 - [Rustfuck](https://github.com/vaporyhumo/rustfuck): Brainfuck written in Rust.
