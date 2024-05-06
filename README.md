@@ -10,9 +10,10 @@
 - [Coding Challenges](https://github.com/vaporyhumo/coding_challenges)
 
 #### Things I've done for learning
-- [TicTacToe](https://github.com/vaporyhumo/tictactoe): Multiplayer TicTacToe game using TCP.
 - [Guess](https://github.com/vaporyhumo/guess): Guessing game with client/server
   architecture.
+- [Rustfuck](https://github.com/vaporyhumo/rustfuck): Brainfuck written in Rust.
+- [TicTacToe](https://github.com/vaporyhumo/tictactoe): Multiplayer TicTacToe game using TCP.
 
 
   [1]: https://github.com/vaporyhumo/data_structures_and_algorithms
