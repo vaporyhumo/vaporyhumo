@@ -8,6 +8,8 @@
   architecture.
 - [MiniService](https://github.com/vaporyhumo/mini_service): A tiny **Ruby Gem**
   providing a simple interface for **Service Objects**.
+- [Muina](https://github.com/vaporyhumo/muina): A library for writing safer ruby
+  code.
 - [NES](https://github.com/vaporyhumo/nes): An NES emulator writen in Rust.
 - [RustFace](https://github.com/vaporyhumo/rustface): A card game.
 - [Rustfuck](https://github.com/vaporyhumo/rustfuck): Brainfuck written in Rust.
