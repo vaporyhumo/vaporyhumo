@@ -6,6 +6,8 @@
 - [Data Structures and Algorithms][1]
 - [Guess](https://github.com/vaporyhumo/guess): Guessing game with client/server
   architecture.
+- [Lollipop](https://github.com/vaporyhumo/lollipop): A collection of
+  development dependencies for ruby.
 - [MiniService](https://github.com/vaporyhumo/mini_service): A tiny **Ruby Gem**
   providing a simple interface for **Service Objects**.
 - [Muina](https://github.com/vaporyhumo/muina): A library for writing safer ruby
