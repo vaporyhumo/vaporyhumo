@@ -1,5 +1,6 @@
 ### Featured
 
+- [Farseer][farseer]: A Functional Parsing Library for Ruby.
 - [FSON][fson]: Functional JSON Parser for Ruby.
 - [Muina][muina]: A library for writing safer ruby code.
 
@@ -26,6 +27,7 @@
 [bus]:        https://github.com/vaporyhumo/bus
 [challenges]: https://github.com/vaporyhumo/coding_challenges
 [data]:       https://github.com/vaporyhumo/data_structures_and_algorithms
+[farseer]:    https://github.com/vaporyhumo/farseer
 [fson]:       https://github.com/vaporyhumo/fson
 [guess]:      https://github.com/vaporyhumo/guess
 [hooks]:      https://github.com/vaporyhumo/hooks
