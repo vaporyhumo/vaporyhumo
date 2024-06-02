@@ -1,6 +1,9 @@
 ### Featured
 
 - [FSON][fson]: Functional JSON Parser for Ruby.
+- [Muina][muina]: A library for writing safer ruby code.
+
+
 ### Public Repos
 
 - [Blog posts][blog_posts]
@@ -12,7 +15,6 @@
 - [Lollipop][lolli]: A collection of development dependencies for ruby.
 - [Lumise][lumise] 
 - [MiniService][mini]: A tiny **Ruby Gem** providing a simple interface for **Service Objects**.
-- [Muina][muina]: A library for writing safer ruby code.
 - [NES][nes]: An NES emulator writen in Rust.
 - [RustFace][rustface]: A card game.
 - [Rustfuck][rustfuck]: Brainfuck written in Rust.
