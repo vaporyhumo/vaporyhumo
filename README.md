@@ -1,4 +1,4 @@
-## I renamed my account
+## I renamed my account to `rodrigovilina`
 
 On September 27, 2024 I renamed my account to `rodrigovilina`.
 
